@@ -1,8 +1,16 @@
 # pitest-test-mutator
 
 
+### Informações sobre versões
 
+- jUnit 5 (5.9.0)
+- Java 11
+- Pitest <br/>
+  pitest: 1.9.3 <br/>
+  plugin pitest.junit5: 1.0.0 <br/>
+  junit.platform: 1.9.0 <br/>
 
+### Execução
 Para visualizar o relatório de força dos testes, execute dentro da pasta do projeto
 
 ```mvn clean test```
